@@ -47,8 +47,8 @@ Apikey Location
 - [SETTING](https://github.com/fahmicog/CogBot/blob/main/lib/database/setting.json)
 
 ## Donate
-- [Saweria](https://saweria.co/ItzTobz)
-- [Dana](https://link.dana.id/qr/17mlqta)
+- [Saweria](https://saweria.co/fahmicog)
+- [Paypal](https://paypal.me/fahmicog)
 
 ## Getting Started
 
